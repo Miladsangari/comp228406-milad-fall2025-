@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Milad Sangari_COMP228_406_Midterm/Milad Sangari_COMP228_406_Midterm.iml" filepath="$PROJECT_DIR$/Milad Sangari_COMP228_406_Midterm/Milad Sangari_COMP228_406_Midterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Milad_COMP228Lab1/Milad_COMP228Lab1.iml" filepath="$PROJECT_DIR$/Milad_COMP228Lab1/Milad_COMP228Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Milad_COMP228Lab2/Milad_COMP228Lab2.iml" filepath="$PROJECT_DIR$/Milad_COMP228Lab2/Milad_COMP228Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Milad_COMP228Lab3/Milad_COMP228Lab3.iml" filepath="$PROJECT_DIR$/Milad_COMP228Lab3/Milad_COMP228Lab3.iml" />
